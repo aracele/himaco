@@ -86,6 +86,38 @@ p {
     opacity: 0.7;
 }
 
+.text-about{
+    /*! height: 100vh; */
+    /*! display: flex; */
+    align-content: center;
+    margin: auto;
+}
+
+#about-us {
+    margin: auto;
+    padding: 10px;
+}
+
+#about-us h2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+#about-us h3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#about-us ul li {
+    font-size: 20px;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
 .footer-link {
     margin: 20px;
 	font-size: 14px;
