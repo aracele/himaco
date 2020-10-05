@@ -101,25 +101,44 @@ p {
 #about-us h2 {
     font-size: 24px;
     font-weight: 600;
-    color: #FFFFFF;
+    color: #d24506;
 }
 
 #about-us h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
-    color: #FFFFFF;
+    color: #d24506;
     padding-top: 20px;
     padding-bottom: 10px;
 }
 
 #about-us ul li {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
     color: #FFFFFF;
 }
 
+.text-projects {
+    align-content: center;
+    margin: auto;
+}
+
+#projects h2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #d24506;
+}
+
+#projects h3 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #d24506;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
 .footer-link {
-    margin: 20px;
+    margin: 18px;
 	font-size: 14px;
     position: absolute;
     bottom: 0;
